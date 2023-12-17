@@ -10,10 +10,6 @@
 
 Чтобы запустить приложение, скомпилируйте и выполните класс MultiProcessorApp. Программа будет выводить идентификатор потока и обрабатываемые данные для каждой задачи.
 
-```bash
-javac MultiProcessorApp.java
-java MultiProcessorApp
-
 ## Лицензия
 
 [MIT License](LICENSE)
